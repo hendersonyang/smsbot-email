@@ -1,2 +1,2 @@
 # smsbot-email
-A text message bot based on emails. Stopped development because most sms providers take 5+ minutes for a sms -> email and email -> sms response.
+Abandoned because it takes 5+ minutes for SMS providers to do sms -> email and email -> sms.
